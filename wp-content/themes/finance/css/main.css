@@ -719,10 +719,9 @@ p.style-v1{
 /* flat-top
 -------------------------------------------------------------- */
 .flat-top {
-	background-color: #3a526a;
-	padding: 8px 0 7px;
-	font-size: 12px;
-	font-family: "Poppins", sans-serif;
+	background-color: #9f1322;
+	padding: 5px 0 4px;
+	font-size: 12px;	
 	font-weight: 300;
 }
 
@@ -799,7 +798,7 @@ p.style-v1{
 
 .info-top-right a.appoinment {
 	display: inline-block;
-	background-color: #18ba60;
+	background-color: #9f1322;
 	margin: -8px 0 -7px;
 	font-size: 14px;
 	text-transform: uppercase;
