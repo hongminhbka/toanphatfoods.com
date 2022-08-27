@@ -1356,7 +1356,7 @@ p.style-v1{
 
 #mainnav > ul > li > a:hover,
 #mainnav > ul > li.home > a {
-   color: #18ba60 ;
+   color: #fff ;
    position: relative;
 }
 
@@ -1368,7 +1368,7 @@ p.style-v1{
     bottom: -15px;
     width: 15px;
     height: 5px;
-    background-color: #18ba60;
+    background-color: #fff;
 }
 
 #mainnav > ul > li.home > a:after {
