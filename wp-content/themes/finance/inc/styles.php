@@ -184,8 +184,7 @@ function themesflat_custom_styles( $custom ) {
 		 
     }
 
-    $custom .= ".info-top-right a.appoinment:hover,
-    .imagebox .box-button a:hover,.call-back-form .flat-button-form:hover,button:hover, input[type='reset']:hover,.wpb_gallery_slides .flex-direction-nav li a:hover,.featured-post.blog-slider .flex-prev:hover, .featured-post.blog-slider .flex-next:hover,.vc_tta.vc_tta-accordion .vc_tta-controls-icon-position-left.vc_tta-panel-title>a:hover,#flat-portfolio-carousel ul.flex-direction-nav li a:hover,.navigation.posts-navigation .nav-links li:hover a:after,.widget.widget_tag_cloud .tagcloud a:hover,.blog-single .entry-footer .tags-links a:hover,#mc4wp-form-1 input[type='submit']:hover {
+    $custom .= ".imagebox .box-button a:hover,.call-back-form .flat-button-form:hover,button:hover, input[type='reset']:hover,.wpb_gallery_slides .flex-direction-nav li a:hover,.featured-post.blog-slider .flex-prev:hover, .featured-post.blog-slider .flex-next:hover,.vc_tta.vc_tta-accordion .vc_tta-controls-icon-position-left.vc_tta-panel-title>a:hover,#flat-portfolio-carousel ul.flex-direction-nav li a:hover,.navigation.posts-navigation .nav-links li:hover a:after,.widget.widget_tag_cloud .tagcloud a:hover,.blog-single .entry-footer .tags-links a:hover,#mc4wp-form-1 input[type='submit']:hover {
 		background-color: #2e363a !important;
 	}"."\n";	
 
