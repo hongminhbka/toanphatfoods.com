@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://toanphatfoods.com
+Data file = /home/skymap_wp/toanphatfoods.com/wp-content/uploads/2022/05/demo-content-import-file_2022-05-14__14-31-31.xml
+Widget file = /home/skymap_wp/toanphatfoods.com/wp-content/uploads/2022/05/demo-widgets-import-file_2022-05-14__14-31-31.json
+Customizer file = /home/skymap_wp/toanphatfoods.com/wp-content/uploads/2022/05/demo-customizer-import-file_2022-05-14__14-31-31.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "
+						": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "
+				Contact form 1		": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "
+				Request call back		": Invalid post type wpcf7_contact_form
+
