@@ -2880,7 +2880,7 @@ article.blog-single {
 }
 
 .footer a:hover {
-	color: #18ba60;
+	color: #fff;
 }
 
 .bottom .copyright {
@@ -2888,7 +2888,7 @@ article.blog-single {
 }
 
 .bottom .copyright a {
-	color: #18ba60;
+	color: #fff;
 }
 
 .bottom .copyright a:hover {
@@ -2898,10 +2898,9 @@ article.blog-single {
 /* Bottom
 -------------------------------------------------------------- */
 .bottom {
-	padding: 18px 0;
-	border-top: 1px solid #394348;
-	background-color: #2e363a;
-	font-size: 14px;
+	padding: 12px 0;   
+    background-color: #d64c4a;
+    font-size: 16px;
 }
 
 .bottom ul li {
