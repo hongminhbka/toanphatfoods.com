@@ -15,17 +15,7 @@
     <?php if ( themesflat_choose_opt('enable_footer') == 1 ): ?>
         <!-- Footer -->
         <footer class="footer <?php (themesflat_meta( 'footer_class' ) != "" ? esc_attr( themesflat_meta( 'footer_class' ) ):'') ;?>">      
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="flat-before-footer">
-                        <?php 
-                            themesflat_dynamic_sidebar ( 'sidebar-before-footer' );
-                        ?>   
-                        </div><!-- /.flat-before-footer -->
-                    </div><!-- /.col-md-12 -->  
-                </div><!-- /.row -->  
-                
+            <div class="container">                                
                 <div class="row"> 
                     <div class="footer-widgets">
                     <?php
@@ -67,14 +57,7 @@
                 <div class="col-md-12">
                     <div class="copyright">                        
                         <?php echo wp_kses_post(themesflat_choose_opt( 'footer_copyright')); ?>
-                    </div>
-
-                    <div class="widget widget-custom-menu">
-                        <?php                            
-                            wp_nav_menu( array( 'theme_location' => 'bottom', 'fallback_cb' => 'themesflat_menu_fallback', 'container' => false ) );
-                        ?>                        
-                    </div>
-                                     
+                    </div>                                                       
                     <?php if ( themesflat_choose_opt( 'go_top') == 1 ) : ?>
                         <!-- Go Top -->
                         <a class="go-top show">
