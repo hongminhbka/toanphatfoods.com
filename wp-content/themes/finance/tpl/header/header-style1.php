@@ -10,9 +10,7 @@
 
                     <?php if ( themesflat_choose_opt('header_searchbox') == 1 ) :?>
                     <div class="show-search">
-                        <div class="submenu top-search widget_search">
-                            <?php get_search_form(); ?>
-                        </div>         
+                        <a href="#"><i class="fa fa-search"></i></a>         
                     </div> 
                     <?php endif;?>
 
@@ -20,7 +18,10 @@
                         get_template_part( 'tpl/header/navigator');
                     ?>
                               
-                </div>                 
+                </div><!-- /.header-wrap -->
+                <div class="submenu top-search widget_search">
+                    <?php get_search_form(); ?>
+                </div> 
             </div><!-- /.col-md-12 -->
         </div><!-- /.row -->
     </div><!-- /.container -->    
