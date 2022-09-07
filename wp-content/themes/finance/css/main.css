@@ -116,6 +116,7 @@ p {
 
 article p {
 	margin-bottom: 25px;
+    text-align: justify;
 }
 
 article p:last-of-type {
@@ -2863,6 +2864,7 @@ article.blog-single {
 -------------------------------------------------------------- */
 .footer {    
     background-color: #2e363a;    
+	border-top: 1px solid rgba(0,0,0,.05);
     overflow: hidden;
 }
 
