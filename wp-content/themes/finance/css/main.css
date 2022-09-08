@@ -1552,7 +1552,7 @@ p.style-v1{
 /* Blog Grid Some Css Global 
 -------------------------------------------------------------- */
 .page-wrap {
-	padding: 50px 0;
+	padding: 25px 0;
 	background-color: #fff;
 	overflow: hidden;
 }
@@ -1592,14 +1592,14 @@ p.style-v1{
 
 .page-wrap.sidebar-left .content-area, .page-wrap.sidebar-right .content-area {
 	float: left;
-	width: 70.94017094017094%;
-	padding-right: 5.128205128205128%;
+	width: 77%;
+	padding-right: 3%;
 	position: relative;
 }
 
 .page-wrap.sidebar-left .widget-area, .page-wrap.sidebar-right .widget-area {
 	float: left;
-	width: 29.05982905982906%;
+	width: 20%;
 	z-index: 2;
 	position: relative;
 }
@@ -1607,13 +1607,13 @@ p.style-v1{
 /* Services sidebar */
 .page-wrap.sidebar-left .single-page .content-area, 
 .page-wrap.sidebar-right .single-page .content-area {	
-	width: 76.92307692307692%;
-	padding-right: 2.564102564102564%;	
+	width: 77%;
+	padding-right: 3%;	
 }
 
 .page-wrap.sidebar-left .single-page .widget-area, 
 .page-wrap.sidebar-right .single-page .widget-area {	
-	width: 23.07692307692308%;	
+	width: 20%;	
 }
 
 a.menu-fallback {	
@@ -1628,7 +1628,7 @@ a.menu-fallback:hover {
 /* Blog Sidebar Left */
 .page-wrap.sidebar-left .content-area {
 	float: right;
-	padding-left: 5.128205128205128%;
+	padding-left: 3%;
 	padding-right: 0;
 }
 
@@ -2252,7 +2252,7 @@ article.blog-single {
 }
 
 .sidebar .widget {
-	margin-bottom: 50px;
+	margin-bottom: 25px;
 	overflow: hidden;
 }
 
@@ -2774,8 +2774,8 @@ article.blog-single {
 -------------------------------------------------------------- */
 .footer-widgets {
 	overflow: hidden;
-	padding: 52px 0 50px;
-	font-size: 14px;
+	padding: 35px 0 25px;
+	font-size: 15px;
 }
 
 /* Widget footer default
