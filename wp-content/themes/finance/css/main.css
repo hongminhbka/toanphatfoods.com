@@ -53,7 +53,7 @@
 }
 
 a {
-	color: #333;
+	color: #d64c4a;
 	text-decoration: none;
 	-webkit-transition: all 0.3s ease 0s;
 	   -moz-transition: all 0.3s ease 0s;
@@ -78,7 +78,7 @@ a:focus {
 }
 
 a:hover, a:focus {
-    color: #18ba60;
+    color: #9f1322;
     text-decoration: none;
     outline: 0;
     -webkit-transition: all 0.3s ease-in-out;
