@@ -6,3 +6,6 @@ Template:       finance
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+.home-product .title-content {
+    margin: 25px 35px;
+}
